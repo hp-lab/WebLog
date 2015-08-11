@@ -11,6 +11,8 @@ namespace WebLog.Controllers
         public ActionResult Index()
         {
             return View();
+
+
         }
     }
 }
